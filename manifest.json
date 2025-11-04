@@ -1,0 +1,8 @@
+{
+  "domain": "lg_washer_dryer_card",
+  "name": "LG ThinQ Cards",
+  "codeowners": ["@m1ckyb"],
+  "documentation": "https://github.com/m1ckyb/lg-washer-dryer-card",
+  "issue_tracker": "https://github.com/m1ckyb/lg-washer-dryer-card/issues",
+  "version": "1.0.0"
+}
